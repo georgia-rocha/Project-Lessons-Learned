@@ -1,5 +1,7 @@
 ### Project-Lessons-Learned
-- Primeiro projeto da Trybe
+- Primeiro projeto da Trybe:
+Maior objetivo desse projeto foi a familiarização com as tags do html e o básico do css bruto;
+
 ## Módulo de Fundamentos - Bloco 1 - sessão 3
 
 ### Requisitos
